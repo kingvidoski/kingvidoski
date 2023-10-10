@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 <h3 align="center">A Software developer passionate about problem-solving and delivering digital solutions.</h3>
-<img align="right" alt="coding" width="300" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
+<img align="right" alt="coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
 
 
 
