@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyIrQFdxMKmbV0kZ7cOjhTXUHxSG5j2sOV6Q&usqp=CAU)](https://notyet.com)
+[![MasterHead](https://www.muhammetsafak.com.tr/assets/images/back-end-developer.gif)](https://notyet.com)
 
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 <h3 align="center">A Software developer passionate about problem-solving and delivering digital solutions.</h3>
