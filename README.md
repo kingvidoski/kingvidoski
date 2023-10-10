@@ -1,4 +1,4 @@
-[![MasterHead](https://www.muhammetsafak.com.tr/assets/images/back-end-developer.gif)](https://notyet.com){ width="800" height="400" style="display: block; margin: 0 auto" }
+
 
 <h1 align="center">Hi 👋, I'm Kingsley</h1>
 <h3 align="center">A Software developer passionate about problem-solving and delivering digital solutions.</h3>
