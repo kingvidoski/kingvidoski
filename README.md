@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [notyet.com](notyet.com)
 
-- 💬 Ask me about **Fullstack development and Mobile development**
+- 💬 Ask me about **Fullstack and Mobile development**
 
 - 📫 How to reach me **kingvidoski@gmail.com**
 
